@@ -1,0 +1,4 @@
+V	241209131836Z		01	unknown	/C=PT/ST=Porto/L=Porto/O=Entity A/OU=Entity A/CN=FQDN/emailAddress=entitya@iscte.pt
+V	241209134956Z		02	unknown	/C=PT/ST=Braga/L=Braga/O=Internet Webpages/OU=Internet/CN=FQDN/emailAddress=internet@iscte.pt
+V	241209135138Z		03	unknown	/C=PT/ST=Coimbra/L=Coimbra/O=Programming/OU=Programming/CN=TLP/emailAddress=programming@iscte.pt
+V	241209135233Z		04	unknown	/C=PT/ST=Faro/L=Faro/O=BioTechnology/OU=BioTech/CN=BioTech/emailAddress=biotech@iscte.pt
